@@ -1,0 +1,17 @@
+.desktop {
+    background-image: url("./../../assets/Ubuntu.jpg");
+    padding-top: 14%;
+    padding-bottom: 24%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    width: 100%;
+    margin: auto;
+}
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
